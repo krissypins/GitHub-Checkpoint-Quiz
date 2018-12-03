@@ -1,6 +1,7 @@
+//Quiba
 public class GitTest{
 	String instance = "";
-	private static void defaultConstructor(String instance){
+	private static void GitTest(String instance){
 		instance = "This is my GitHub test";
 	}
 
