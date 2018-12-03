@@ -3,4 +3,8 @@ public class GitTest{
 	private static void defaultConstructor(String instance){
 		instance = "This is my GitHub test";
 	}
+
+	private static String printToString(String instance){
+		return " " + instance;
+	}
 }
