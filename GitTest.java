@@ -1,3 +1,4 @@
+//Kristina
 public class GitTest{
 	String instance = "";
 	private static void defaultConstructor(String instance){
