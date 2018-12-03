@@ -1,4 +1,4 @@
-//Quiba
+//Quiba Kristina
 public class GitTest{
 	String instance = "";
 	private static void GitTest(String instance){
